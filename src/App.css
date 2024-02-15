@@ -1,0 +1,107 @@
+.border input
+{
+    height: 50px;
+    width: 60px;
+    background-color: grey;
+    border: none;
+    border-radius: 10px;
+    margin: 3px 3px;
+    font-size: 20px;
+    font-weight: bolder;
+    border: 3px solid black;
+    transition: .2s;
+
+}
+.border input:hover
+{
+    border: 2px solid rgba(149, 147, 146);
+    background-color: rgba(134, 52, 8);
+    color: rgba(149, 147, 146);
+
+
+
+}
+.border input.plus
+{
+    height: 115px;
+    width: 60px;
+    background-color: grey;
+    border: none;
+    border-radius: 10px;
+    margin: 3px 3px;
+    font-size: 20px;
+    background-color: rgba(134, 52, 8);
+    color: rgba(149, 147, 146);
+    font-size: 30px;
+    border: 2px solid rgba(149, 147, 146);
+
+}
+.main
+{
+    margin: 10px;
+    border: none;
+    width: 250px;
+    padding: 15px 0px 15px 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(78, 66, 52);
+    color: rgba(233, 225, 225 );
+    border: 3px solid black;
+    
+
+}
+.div
+{
+    background-color: rgb(63, 62, 52);
+    border-radius: 20px;
+    padding: 10px 10px;
+    margin: auto;
+    margin-top: 130px;
+}
+.border input.clear
+{
+    background-color: rgba(134, 52, 8);
+    color: rgba(149, 147, 146);
+    font-size: 25px;
+    border: 2px solid rgba(149, 147, 146);
+
+
+}
+.border input.clr
+{
+    background-color: rgba(134, 52, 8);
+    color: rgba(149, 147, 146);
+    font-size: 20px;
+    border: 2px solid rgba(149, 147, 146);
+
+
+}
+/* button{
+width: 50px;
+height: 50px;
+font-size: 20px;
+margin: 5px;
+}
+.row{
+gap: 20px;
+}
+.zero{
+width: 110px;
+}
+.disp{
+width: 205px;
+padding: 10px;
+border: 0;
+border-bottom: 1px solid grey;
+background-color: transparent;
+text-align: right;
+}
+.cal{
+padding: 10px;
+height: 410px;
+width: 250px;
+margin: auto;
+background-color: bisque;
+border-radius: 15px;
+} */
